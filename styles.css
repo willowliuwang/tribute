@@ -1,0 +1,114 @@
+* {
+    box-sizing: border-box;
+  }
+
+html {
+    font-size: 18px;
+}
+  
+body {
+    font-family: 'Crimson Text', serif;
+    background-color: rgb(235, 223, 246);
+}
+
+h1, p, h2, h3 {
+    text-align: center;
+}
+
+h1 {
+
+    font-size: 50px;
+}
+
+h1:hover {
+    color: #2B1C38;
+}
+
+p {
+    margin: 0;
+    margin-top: -20px;
+}
+
+figure {
+    display: block;
+    background-color: rgb(245, 243, 246);
+    margin: 40px auto;
+    width: 40%;   
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    padding: 25px;
+    padding-bottom: 10px;
+    height: auto;
+    max-width: 100%;
+}
+
+figcaption {
+    padding-left: 25px;
+    padding-bottom: 10px;
+    color:rgb(87, 86, 86);
+    font-size: 0.8em;
+}
+
+section {
+    display: block;
+}
+
+h2 {
+    margin: 30px;
+}
+
+ul {
+max-width: 600px;
+margin: 0 auto 50px auto;
+text-align: left;
+}
+
+li {
+    margin: 16px;
+    list-style: none;
+}
+
+span {
+    font-style: italic;
+}
+
+blockquote {   
+    display: block;
+    max-width: 600px;
+    margin: 100px auto 100px auto;
+    
+}
+
+#quote {
+    text-align: left;
+    margin-bottom: 10px;
+    color: #2B1C38;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 1.6;
+}
+
+cite {
+    float:right;
+}
+
+a {
+    color:black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #2B1C38;
+    text-decoration: underline;
+    
+}
+
+h2 {
+    font-size: 25px;
+}
+
+
+
